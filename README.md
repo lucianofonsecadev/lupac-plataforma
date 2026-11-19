@@ -99,8 +99,7 @@ flowchart TD
 ## Ferramentas de edição
 
 O Lupac recebe os vídeos prontos de uma esteira de edição própria: transcrição com Whisper, cortes pelo som,
-cartões e gráficos, Shorts verticais com legenda animada e capas. Uma parte dela está no
-[estúdio de vídeos](https://github.com/lucianofonsecadev/estudio-de-videos).
+cartões e gráficos, Shorts verticais com legenda animada e capas.
 
 ## Tecnologias
 
