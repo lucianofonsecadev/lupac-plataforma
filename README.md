@@ -20,7 +20,7 @@ Você aprova título, descrição e data de cada vídeo, e o Lupac cuida do envi
 
 </div>
 
-![Fila de vídeos do Lupac](docs/telas/fila.jpg)
+![Telas do Lupac](docs/lupac.gif)
 
 ## O que o Lupac faz
 
@@ -47,6 +47,10 @@ Você aprova título, descrição e data de cada vídeo, e o Lupac cuida do envi
 | Painel dos canais |
 |---|
 | ![Canais](docs/telas/canais.jpg) |
+
+| Fila de vídeos |
+|---|
+| ![Fila](docs/telas/fila.jpg) |
 
 > Capturas reais do painel, tratadas para publicação: títulos de vídeos ainda não publicados e nomes internos de arquivos foram borrados.
 
